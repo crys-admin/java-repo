@@ -1,2 +1,5 @@
-package com.company;public class AnotherJavaClass {
+package com.company;
+
+public class AnotherJavaClass {
+
 }
